@@ -1,4 +1,5 @@
-# Playful Drum: Interactive Tangible Interaction ( Project For Bauhaus Universitat ) 
+# Playful Drum: Interactive Tangible Interaction 
+( Project For Bauhaus Universitat ) 
 
 
 Welcome to the Playful Drum project repository! 🥁
